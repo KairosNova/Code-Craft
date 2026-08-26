@@ -1,7 +1,7 @@
 # Unad-Proyect-
 ## Jhon Reyes
 
-![Foto personal](jhon/foto-personal.jpg)
+![Foto personal](Jhon/foto-personal.jpg)
 
 **Rol:** Game developer
 
