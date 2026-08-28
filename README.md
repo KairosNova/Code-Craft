@@ -2,7 +2,9 @@
 ## Presentación
 
 **Nombre:** Juan Felipe García Cortés
+
 **Ubicación:** El Rosal, Cundinamarca, Colombia
+
 **Rol de la industria:** 
 
 ### Perfil
