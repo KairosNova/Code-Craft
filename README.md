@@ -5,7 +5,7 @@
 
 **Ubicación:** El Rosal, Cundinamarca, Colombia
 
-**Rol de la industria:** 
+**Rol de la industria:** Technical Artist 
 
 ### Perfil
 Estudiante un enfocado en el desarrollo de entornos y personajes tanto 2D como 3d incluyendo tambien el diseo de sonido, tambien interesado en animaciones y renders usando diferentes programas ya sea Source Film Maker, blender y entre otros
