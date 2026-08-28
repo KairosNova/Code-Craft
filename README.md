@@ -24,6 +24,7 @@ Lasagna
 ### Jhon Alexander Reyes Cristancho
 
 ![Foto personal](Jhon/foto-personal.jpg)
+![Plato Favorito](Jhon/Pizza.jpg.jpg)
 
 **Rol:** Game developer - Gameplay Programmer 
 
