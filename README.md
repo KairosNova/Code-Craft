@@ -32,3 +32,19 @@ Lasagna
 
 **Perfil:** Estudiante interesado en el desarrollo de videojuegos y el diseño de experiencias interactivas, con enfoque en programacion y diseño
 
+---
+
+### Nathaly Andrea Gómez Mora
+
+![Foto personal](./Nathaly/Foto_personal.jpeg)
+
+**Rol:** Gestor de Proyectos Multimedia
+
+**Ubicación:** Albán, Cundinamarca, Colombia
+
+**Perfil:** Estudiante interesada en la planeación, estructuración y consolidación de proyectos multimedia, desde videojuegos hasta plataformas y sitios web. Interesada en participar en la organización y gestión de proyectos que integren diferentes áreas creativas y tecnológicas, contribuyendo a transformar ideas en experiencias digitales estructuradas y funcionales.
+
+### Plato Favorito
+
+![Plato Favorito](./Nathaly/Canelones.jpg)
+
